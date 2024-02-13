@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>YouTube Comment Sentiment Analysis Results</title>
+</head>
+<body>
+<h1>Results for Video: {{ video_link }}</h1>
+<table>
+<tr>
+<th>Comment</th>
+<th>Sentiment</th>
+<th>Reaction</th>
+</tr>
+{% for comment, sentiment in sentiments %}
+<tr>
+<td>{{ comment }}</td>
+<td>{{sentiment }}</td>
+<td>{{ reactions[loop.index0] }}</td>
+</tr>
+{% endfor %}
+</table>
+</body>
+</html>
