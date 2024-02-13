@@ -9,10 +9,10 @@ This project performs sentiment analysis on YouTube comments using natural langu
 
 Features:
 
-- Sentiment Classification:** Utilizes machine learning models to classify comments into positive, negative, or neutral sentiments.
-- Data Preprocessing:** Implements [mention any specific preprocessing techniques or libraries used] for cleaning and preparing the comment data.
-- Model Training:** Trains and fine-tunes machine learning models to achieve accurate sentiment predictions.
-- Result Visualization:** Provides visualizations of sentiment distribution and trends for better interpretation of the data.
+- Sentiment Classification: Utilizes machine learning models to classify comments into positive, negative, or neutral sentiments.
+- Data Preprocessing: Implements [mention any specific preprocessing techniques or libraries used] for cleaning and preparing the comment data.
+- Model Training: Trains and fine-tunes machine learning models to achieve accurate sentiment predictions.
+- Result Visualization:  Provides visualizations of sentiment distribution and trends for better interpretation of the data.
 
 Getting Started
 
